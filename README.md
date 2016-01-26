@@ -4,6 +4,7 @@
 <ol>
 	<li>Async Programing demo</li>
 	<li>README.md notes automator</li>
+	<li>browser sync from RUMI</li>
 </ol>
 
 <h2>My libs</h2>
