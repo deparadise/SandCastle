@@ -1,0 +1,23 @@
+{
+  "name": "sand-castle",
+  "description": "My Library Sand Garden",
+  "main": "index.js",
+  "authors": [
+    "David Pineda"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/deparadise/SandCastle",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

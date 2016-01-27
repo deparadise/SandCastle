@@ -1,0 +1,22 @@
+{
+  "name": "sand-castle",
+  "version": "1.0.0",
+  "description": "My Library Sand Garden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deparadise/SandCastle.git"
+  },
+  "author": "David Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deparadise/SandCastle/issues"
+  },
+  "homepage": "https://github.com/deparadise/SandCastle#readme",
+  "dependencies": {
+    "foundation": "^4.2.1-1"
+  }
+}
