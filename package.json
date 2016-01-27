@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/deparadise/SandCastle#readme",
   "dependencies": {
-    "foundation": "^4.2.1-1"
+    "foundation": "^4.2.1-1",
+    "rx": "^4.0.7"
   }
 }
