@@ -1,0 +1,22 @@
+.progress-bar {
+	border: 1px solid black;
+	border-radius: 4px;
+	width: 50%;
+	height: 25px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.progress {
+	background-color: #bada55;
+	/*width: 25%;*/
+	height: 100%;
+}
+
+.amount {
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	
+}

@@ -1,0 +1,23 @@
+<html ng-app='progress'>
+	<head>
+		<title>Toptal Progress Bar</title>
+		
+		<link rel="stylesheet" type="text/css" href="progress.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+		<script src="progress.js"></script>
+	</head>
+	<body ng-controller="progresser">
+
+		<p>
+			I was tasked with making a progress bar that would change from an input
+			<a href="https://meocloud.pt/link/9b96c6d5-9a38-4e3e-9536-0cc295a06181/progressbar.png/" target="_blank">example image</a>
+		</p>
+
+		<div class="progress-bar">
+			<div ng-style="progressApply" class="progress"></div>
+			<span class="amount">{{progressEntered}}</span>
+		</div>
+
+		<input type="text" ng-change="checkModel()" ng-model="progressEntered">
+	</body>
+</html>
