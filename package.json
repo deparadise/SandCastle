@@ -18,6 +18,9 @@
   "homepage": "https://github.com/deparadise/SandCastle#readme",
   "dependencies": {
     "foundation": "^4.2.1-1",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-util": "^3.0.7",
     "rx": "^4.0.7"
   }
 }
