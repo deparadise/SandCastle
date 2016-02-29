@@ -10,14 +10,14 @@
 
 // compass >>> Styles pipe
 	gulp.task('compass', function(){
-		gulp.src('assets/sass/style.scss')
+		gulp.src('-assets/sass/style.scss')
 		.pipe(compass({
 			// COMPASS CONFIGURATION
-			sass: 'assets/sass',
-			css: 'assets/css',
+			sass: '-assets/sass',
+			css: '-assets/css',
 			comments: true,
 			style: 'expanded',  // expanded for dev / compressed for prod
-			image: 'assets/imgs'
+			image: '-assets/imgs'
 		})
 		.on('error', gutil.log));
 		//.pipe(gulp.dest('/style.css'))
