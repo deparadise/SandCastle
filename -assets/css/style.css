@@ -1,4 +1,25 @@
-/* line 1, ../sass/style.scss */
-h1 {
-  background-color: red;
+/*------------------------------
+// settings //
+------------------------------*/
+/*------------------------------
+// Foundation //
+------------------------------*/
+/* line 4, ../sass/foundation/_skeleton.scss */
+.row {
+  border: 1px solid green;
+}
+
+/* line 8, ../sass/foundation/_skeleton.scss */
+.columns {
+  border-right: 1px solid #BC212C;
+  border-bottom: 1px solid #BC212C;
+  background-color: #C2E0E5;
+}
+
+/*------------------------------
+// Theme //
+------------------------------*/
+/* line 1, ../sass/theme/_uniform.scss */
+body {
+  background-color: #0496C7;
 }
