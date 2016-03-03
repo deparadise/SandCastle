@@ -1,8 +1,11 @@
-<html>
+<html ng-app="myBucket">
 	<head>
 		<title>SandCastle</title>
 		<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+		
+		<!-- Angular -->
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+		<script src="/-assets/js/bucket.js"></script>
 
 		<!-- FOUNDATION -->
 		<link rel="stylesheet" type="text/css" href="/-assets/foundation/foundation.min.css">
@@ -10,7 +13,7 @@
 		<!-- THEME -->
 		<link rel="stylesheet" type="text/css" href="/-assets/css/style.css"
 	</head>
-	<body>
+	<body ng-controller="benchCtrlr">
 		<header>
 			<nav class="top-bar" data-topbar>
 				<ul class="title-area">
@@ -29,6 +32,7 @@
 		</header>
 		<div class="row body">
 			<h1>This is my Sand Castle</h1>
+			<h2>{{msgOfTheDay}}</h2>
 		</div>
 		<div class="row footer">fdsa</div>
 	</body>
