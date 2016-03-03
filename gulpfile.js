@@ -6,7 +6,9 @@
 		//jsHint = require('gulp-jshint'),
 		livereload = require('gulp-livereload'),
 		//uglify = require('gulp-uglify');
-		gutil = require('gulp-util');
+		gutil = require('gulp-util'),
+		webserver = require('gulp-webserver'); //https://www.npmjs.com/package/gulp-webserver
+
 
 /// ASSET SOURCE LIST
 	var sassSources = ['-assets/sass/**/*.scss'];
@@ -35,11 +37,20 @@
 		gulp.watch(sassSources, ['compass']);
 		//gulp.watch(jsSources, ['js']);
 	});
+/// WEBSERVER
+	gulp.task('webserver', function() {
+		gulp.src(__dirname)
+		.pipe(webserver({
+			livereload: true,
+			open: true
+		}));
+	});
 
 /// DEFAULT >>> Run all dev tasks and init 'watch'
 	gulp.task('default', [
 		//'static', 
 		'compass',
 		//'js', 
-		'watch'
+		'watch',
+		'webserver'
 	]);
