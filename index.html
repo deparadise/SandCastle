@@ -30,6 +30,93 @@
 				</section>
 			</nav>
 		</header>
+
+		<!-- TECH-PLANE -->
+		<style>
+			.techno-plane {
+				position: relative;
+				background-color: rgba(0,0,0,.35);
+				/*border: 1px solid fuchsia;*/
+			}
+			.horizon {
+				position: absolute;
+				bottom: 0px;
+				width: 100%;
+				border-top: 1px solid fuchsia;
+			}
+			.lateral {
+				position: absolute;
+				width: 100%;
+				border-top: 1px solid fuchsia;
+			}
+		</style>
+		<div class="techno-plane"></div>
+		<script>
+			var horizonTemp = "<div class=\"horizon\"></div>";
+			var lateralTemp = "<div class=\"lateral\"></div>";
+			var params = {
+				height: 400,
+				level: 200,
+				vertAngle: 5//,
+				//vertIncrament: 3
+			};
+			var tPlanes = $('.techno-plane');
+			var horizon;
+			///
+
+			var addHorizon = function () {
+				tPlanes.append(horizonTemp);
+				horizon = $('.horizon');
+				if (params.level) {
+					horizon.css({
+						'height': params.level + 'px'
+					});
+				}else{
+					horizon.css({
+						'height': '60%'
+					});
+				}
+			};
+
+			var addLatitude = function() {
+				for (var i=0; i < params.vertAngle; i++) {
+					horizon.append(lateralTemp);
+				}
+				//var lateralVertSpacer = 10;
+				var lateralGroup = $('.lateral');
+				//console.log(lateralGroup);
+				var lastPosDrops = [0];
+				for (var i=0; i < lateralGroup.length; i++) {
+					//console.log('lastPosDrops', lastPosDrops);
+					// i = [0,1,2,3,4]
+					var pos = i + 1; 			//12345
+					var posDrop = pos * 10; 	//10,20,30,40,50
+					//console.log('posDrop', posDrop);
+					var secIndex = 0;
+					do {
+						//console.log('add a drop!', lastPosDrops[secIndex]);
+						posDrop = posDrop + lastPosDrops[secIndex];
+						//console.log('posDrop after:', posDrop);
+						secIndex++;
+					} while (secIndex < lastPosDrops.length)
+
+					$(lateralGroup[i]).css('top', posDrop + 'px');
+					lastPosDrops.push(pos * 10);
+				}
+			};
+			var config_tPlane = function () {
+				tPlanes.css({
+					'height': params.height + 'px'
+
+				})
+				addHorizon();
+				addLatitude();
+			};
+			config_tPlane();
+			
+		</script>
+		<!-- END TECH-PLANE -->
+
 		<div class="row body">
 			<h1>This is my Sand Castle</h1>
 			<h2>{{msgOfTheDay}}</h2>
