@@ -57,8 +57,9 @@
 			var params = {
 				height: 400,
 				level: 200,
-				vertAngle: 5//,
+				vertAngle: 5,
 				//vertIncrament: 3
+				scale: 30
 			};
 			var tPlanes = $('.techno-plane');
 			var horizon;
@@ -104,6 +105,13 @@
 					lastPosDrops.push(pos * 10);
 				}
 			};
+
+			var addLongitude = function() {
+				var horizonWidth = horizon.width();
+				var postGap = horizonWidth / (params.scale * 1.5);
+				console.log('postGap', postGap);
+			};
+
 			var config_tPlane = function () {
 				tPlanes.css({
 					'height': params.height + 'px'
@@ -111,6 +119,7 @@
 				})
 				addHorizon();
 				addLatitude();
+				addLongitude();
 			};
 			config_tPlane();
 			
