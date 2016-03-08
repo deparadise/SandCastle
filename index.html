@@ -39,6 +39,7 @@
 				/*border: 1px solid fuchsia;*/
 			}
 			.horizon {
+				overflow: hidden;
 				position: absolute;
 				bottom: 0px;
 				width: 100%;
@@ -49,17 +50,25 @@
 				width: 100%;
 				border-top: 1px solid fuchsia;
 			}
+			.vertical {
+				position: relative;
+				float: left;
+				height: 100%;
+				border-left: 3px solid fuchsia;
+			}
 		</style>
 		<div class="techno-plane"></div>
 		<script>
-			var horizonTemp = "<div class=\"horizon\"></div>";
+			var horizonTemp = "<div class=\"horizon\"><div class=\"latitude\"></div><div class=\"longitude\"></div></div>";
 			var lateralTemp = "<div class=\"lateral\"></div>";
+			var verticalTemp = "<div class=\"vertical\"></div>";
 			var params = {
 				height: 400,
-				level: 200,
-				vertAngle: 5,
+				level: 150,
+				vertAngle: 7,
 				//vertIncrament: 3
-				scale: 30
+				distance: 10,
+				perspective: 85
 			};
 			var tPlanes = $('.techno-plane');
 			var horizon;
@@ -81,7 +90,7 @@
 
 			var addLatitude = function() {
 				for (var i=0; i < params.vertAngle; i++) {
-					horizon.append(lateralTemp);
+					horizon.children('.latitude').append(lateralTemp);
 				}
 				//var lateralVertSpacer = 10;
 				var lateralGroup = $('.lateral');
@@ -108,8 +117,35 @@
 
 			var addLongitude = function() {
 				var horizonWidth = horizon.width();
-				var postGap = horizonWidth / (params.scale * 1.5);
-				console.log('postGap', postGap);
+				console.log('horizonWidth', horizonWidth);
+				var sectionWidth = 100 / (params.distance);
+				console.log('sectionWidth', sectionWidth);
+
+				var planeCenter = horizonWidth / 2;
+				console.log('planeCenter:', planeCenter);
+
+				for (var i=0; i < params.distance; i++) {
+					horizon.children('.longitude').append(verticalTemp);
+				}
+
+				var verticalGroup = $('.vertical');
+
+				for (var i=0; i < verticalGroup.length; i++ ) {
+					var pos = $(verticalGroup[i]).position();
+					//console.log('pos:', pos);
+
+					var sectionOffset = -Math.round( ( (Math.round(planeCenter - pos.left)) / planeCenter ) * params.perspective );
+					console.log('sectionOffset:', sectionOffset);
+
+					$(verticalGroup[i]).css({
+						'width': sectionWidth + '%',
+						'transform': 'skewX(' + sectionOffset + 'deg)'
+					});
+
+					if (i == 0) {
+						$(verticalGroup[i]).css({'visibility': 'hidden'});
+					}
+				}
 			};
 
 			var config_tPlane = function () {
