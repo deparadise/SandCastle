@@ -1,0 +1,1310 @@
+{
+    "package": {
+    	"NOTE": "From R60 TRANSPORTER SERVICE",
+        "metadata_token": "1458085815982-48cc2e8e73a8ea80c1e80deeac2b2d595a0c99872cf7ed68777e32a39c8b7aaa",
+        "language": "pt-BR",
+        "provider": "foxfilm",
+        "video": {
+            "read_only_info": {
+                "read_only_value": {
+                    "_key": "content-review-status",
+                    "__text": "Live-Reviewed"
+                }
+            },
+            "original_spoken_locale": "en-US",
+            "vendor_offer_code": "004574BRS",
+            "copyright_cline": "1975 Twentieth Century Fox Film Corporation",
+            "release_date": "1975-01-01",
+            "title": "Rocky Horror Picture Show",
+            "vendor_id": "004574BRS",
+            "xid": "foxfilm:vendor_id:004574BRS",
+            "assets": {
+                "asset": [{
+                    "data_file": [{
+                        "size": "130611384916",
+                        "file_name": "feature_US.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "704d7c0bc56d3142ce46c2ca7f35c578"
+                        },
+                        "locale": {
+                            "_name": "en-US"
+                        },
+                        "attribute": [{
+                            "_name": "crop.top",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.right",
+                            "__text": "64"
+                        }, {
+                            "_name": "crop.bottom",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.left",
+                            "__text": "64"
+                        }, {
+                            "_name": "image.textless_master",
+                            "__text": "true"
+                        }],
+                        "_role": "source"
+                    }, {
+                        "size": "6818010669",
+                        "file_name": "audio_BR.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "864829850d8bb5b3e7c40cc5a2a73f5c"
+                        },
+                        "locale": {
+                            "_name": "pt-BR"
+                        },
+                        "_role": "audio"
+                    }, {
+                        "size": "6818010338",
+                        "file_name": "audio_US_62.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "da901e8306d30572064ba22eaf8951f8"
+                        },
+                        "locale": {
+                            "_name": "en-US"
+                        },
+                        "_role": "audio"
+                    }, {
+                        "size": "6818010338",
+                        "file_name": "audio_US_71.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "3d4e0dec7fa889007d927e2c6a2c1cfa"
+                        },
+                        "locale": {
+                            "_name": "en-US"
+                        },
+                        "_role": "audio.7_1"
+                    }, {
+                        "size": "1989",
+                        "file_name": "TheRockyHorrorPictureShow_HD_BR_2398_FN.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "fac7818208103796578d7ef0097dcfee"
+                        },
+                        "locale": {
+                            "_name": "pt-BR"
+                        },
+                        "_role": "forced_subtitles"
+                    }, {
+                        "size": "35983",
+                        "file_name": "2009721-01-F-ROCKYHORRORPICTURESHOW.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "33e8aaabf6a498eacf321aef67d3fa19"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "27137",
+                        "file_name": "2009721-01-M-ROCKYHORRORPICTURESHOW.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "b8f3df7302d744e77e3f7f3dc5f75eb8"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "131398",
+                        "file_name": "2GPR_004574BRS_AL405259.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "6450eaa8acd8f11bb5a910c28b49cfaf"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "182976",
+                        "file_name": "2GQC_004574BRS_AL405259.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "e72031fb36ab1ecb9985cb67da8f7677"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "104573",
+                        "file_name": "TheRockyHorrorPictureShow_HD_BR_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "7f248bb34c3d562626b85416fde8f5aa"
+                        },
+                        "locale": {
+                            "_name": "pt-BR"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "112435",
+                        "file_name": "TheRockyHorrorPictureShow_HD_CA_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "2c5d4f3ce6f58e3abfa7ec7adbf35ee2"
+                        },
+                        "locale": {
+                            "_name": "fr-CA"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "42674",
+                        "file_name": "TheRockyHorrorPictureShow_HD_CS_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "c4270dc6db6cdb1d59b77b5a0b7d2c73"
+                        },
+                        "locale": {
+                            "_name": "cs"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "110948",
+                        "file_name": "TheRockyHorrorPictureShow_HD_DE_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5a134330695f39267692c13f83f42851"
+                        },
+                        "locale": {
+                            "_name": "de-DE"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "40418",
+                        "file_name": "TheRockyHorrorPictureShow_HD_DK_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "92f9182521f3728fae2389d2ce3b9177"
+                        },
+                        "locale": {
+                            "_name": "da"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "103229",
+                        "file_name": "TheRockyHorrorPictureShow_HD_ES_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "09dbc1086b145d635cb821ab2aba956a"
+                        },
+                        "locale": {
+                            "_name": "es-ES"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "119893",
+                        "file_name": "TheRockyHorrorPictureShow_HD_ET_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "547f62b2719a251efe26f5eda670c3a8"
+                        },
+                        "locale": {
+                            "_name": "et"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "38884",
+                        "file_name": "TheRockyHorrorPictureShow_HD_FI_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "9bfaeaacc42f275ee6e20e7831ceba6f"
+                        },
+                        "locale": {
+                            "_name": "fi"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "108373",
+                        "file_name": "TheRockyHorrorPictureShow_HD_FR_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "93c1437d36522229a6063508bead2b91"
+                        },
+                        "locale": {
+                            "_name": "fr-FR"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "55174",
+                        "file_name": "TheRockyHorrorPictureShow_HD_GR_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "32c78d5abb537665950e68358d0d0546"
+                        },
+                        "locale": {
+                            "_name": "el"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "51276",
+                        "file_name": "TheRockyHorrorPictureShow_HD_HE_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "149ee063f7abdac9619596578352f978"
+                        },
+                        "locale": {
+                            "_name": "he"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "44855",
+                        "file_name": "TheRockyHorrorPictureShow_HD_HU_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "dffc2e0bcb8f69b4b80a5e5c8a6fd7c7"
+                        },
+                        "locale": {
+                            "_name": "hu"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "46989",
+                        "file_name": "TheRockyHorrorPictureShow_HD_IS_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "f71dee1e51ac164ae1ba18aeb265b0f6"
+                        },
+                        "locale": {
+                            "_name": "is"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "82861",
+                        "file_name": "TheRockyHorrorPictureShow_HD_IT_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "cdf32f5623781c72fe01926df4850f5e"
+                        },
+                        "locale": {
+                            "_name": "it-IT"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "98948",
+                        "file_name": "TheRockyHorrorPictureShow_HD_KO_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "407e1c0a5f182d1370b44acf9eee4e1a"
+                        },
+                        "locale": {
+                            "_name": "ko"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "105026",
+                        "file_name": "TheRockyHorrorPictureShow_HD_LAS_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5f77b98aca3adfeb7f91bfe200788569"
+                        },
+                        "locale": {
+                            "_name": "es-419"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "122765",
+                        "file_name": "TheRockyHorrorPictureShow_HD_LV_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "ce22c4795445d9f886c68070a6488297"
+                        },
+                        "locale": {
+                            "_name": "lv"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "93337",
+                        "file_name": "TheRockyHorrorPictureShow_HD_NL_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "016e2af2ebf0ec86d9ea874276d45253"
+                        },
+                        "locale": {
+                            "_name": "nl"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "37322",
+                        "file_name": "TheRockyHorrorPictureShow_HD_NO_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "b0c704c65040cca6361a7635b8e59631"
+                        },
+                        "locale": {
+                            "_name": "no"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "44205",
+                        "file_name": "TheRockyHorrorPictureShow_HD_PL_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "193c2758884b17c34aa5e99d61d2f4f2"
+                        },
+                        "locale": {
+                            "_name": "pl"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "45893",
+                        "file_name": "TheRockyHorrorPictureShow_HD_PT_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "4572d52c724d3fefe555ec4d73024bc9"
+                        },
+                        "locale": {
+                            "_name": "pt-PT"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "145629",
+                        "file_name": "TheRockyHorrorPictureShow_HD_RU_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5ff36a94bd58acce702f4f47b8502f10"
+                        },
+                        "locale": {
+                            "_name": "ru"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "37312",
+                        "file_name": "TheRockyHorrorPictureShow_HD_SE_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "fe6e00b1f95c288b5d825e7e3d1f4f5a"
+                        },
+                        "locale": {
+                            "_name": "sv"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "123439",
+                        "file_name": "TheRockyHorrorPictureShow_HD_TH_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "06d0dc20340983f45a24af40753a4820"
+                        },
+                        "locale": {
+                            "_name": "th"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "120581",
+                        "file_name": "TheRockyHorrorPictureShow_HD_TR_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "2973fa804ae5018c44139a5377a831e2"
+                        },
+                        "locale": {
+                            "_name": "tr"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "114380",
+                        "file_name": "TheRockyHorrorPictureShow_HD_US_2398_SUBS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0bb84cfe57e1e59996c2ba24fb0cc6f7"
+                        },
+                        "locale": {
+                            "_name": "en-US"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "57345320",
+                        "file_name": "dubcard_BR.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "94452eee8e9389485f9ef15c39b57333"
+                        },
+                        "locale": {
+                            "_name": "pt-BR"
+                        },
+                        "_role": "video.end.dub_credits"
+                    }],
+                    "_type": "full"
+                }, {
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "proxy-encode-url-expires",
+                            "__text": "2016-03-17T22:50:15-07:00"
+                        }, {
+                            "_key": "proxy-encode-url",
+                            "__text": "http://a991.phobos.apple.com/us/r30/Video7/v4/f4/b2/81/f4b281dd-e245-daf7-add3-2e58669f63e9/temp..kqwpmxsp.s.m4v?downloadKey=1458280215_0eee5bf4055bda694a007c65af2eff13"
+                        }]
+                    },
+                    "data_file": [{
+                        "size": "2706044254",
+                        "file_name": "preview_BR.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "41baaa8de8e97b47a63dc268ea9d5148"
+                        },
+                        "locale": {
+                            "_name": "pt-BR"
+                        },
+                        "attribute": [{
+                            "_name": "crop.right",
+                            "__text": "66"
+                        }, {
+                            "_name": "crop.bottom",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.top",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.left",
+                            "__text": "66"
+                        }],
+                        "_role": "source"
+                    }, {
+                        "size": "29973",
+                        "file_name": "2009721-01-T-ROCKYHORRORPICTURESHOW.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "959e4aeb6ec3d3e201c3956d7bfdca72"
+                        },
+                        "_role": "notes"
+                    }],
+                    "_type": "preview"
+                }, {
+                    "data_file": {
+                        "size": "161099",
+                        "file_name": "H:\\Elier\\Artwork\\BR\\Feature\\Apple\\Rocky Horror Picture Show\\RHPShow_iTunes_800x1200_BR.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "e17124006d89a00f1e4d91dff98a9e3b"
+                        }
+                    },
+                    "_type": "artwork"
+                }]
+            },
+            "genres": {
+                "genre": [{
+                    "_code": "COMEDY-00",
+                    "__text": "Comedy"
+                }, {
+                    "_code": "MUSICALS-00",
+                    "__text": "Musicals"
+                }, {
+                    "_code": "CLASSICS-00",
+                    "__text": "Classics"
+                }]
+            },
+            "products": {
+                "product": {
+                    "territory": "BR",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2011-12-01",
+                    "intervals": {
+                        "interval": {
+                            "start_date": "2016-03-15",
+                            "wholesale_price_tier": "11",
+                            "hd_wholesale_price_tier": "111"
+                        }
+                    },
+                    "available_for_vod_date": "2012-01-05",
+                    "physical_release_date": "2010-11-03",
+                    "hd_physical_release_date": "2010-11-03",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "493456224"
+                        }, {
+                            "_key": "storeURL-BR",
+                            "__text": "https://itunes.apple.com/br/movie/rocky-horror-picture-show/id493456224?l=en&ls=1"
+                        }]
+                    }
+                }
+            },
+            "subtype": "feature",
+            "ratings": {
+                "rating": {
+                    "_system": "br-movies",
+                    "_code": "18",
+                    "_reason": " Violência e Relação Sexual (Assassinato)",
+                    "__text": "18"
+                }
+            },
+            "type": "film",
+            "chapters": {
+                "timecode_format": "24/999 1000/nonDrop",
+                "chapter": [{
+                    "start_time": "00:00:00:00",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 01"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "813995",
+                        "file_name": "ch01.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "fd4151b8025bd55dcf3521f5b7327fdc"
+                        }
+                    }
+                }, {
+                    "start_time": "00:04:45:20",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 02"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2018237",
+                        "file_name": "ch02.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "8ff8c99f4c4ec439df02ddb262d1ca97"
+                        }
+                    }
+                }, {
+                    "start_time": "00:07:29:20",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 03"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2331634",
+                        "file_name": "ch03.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "99752aaa398476361575e9efc6da8641"
+                        }
+                    }
+                }, {
+                    "start_time": "00:10:18:08",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 04"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1978007",
+                        "file_name": "ch04.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "73d51c2e2a97bf8a1c3db23f08c3c4f3"
+                        }
+                    }
+                }, {
+                    "start_time": "00:13:52:17",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 05"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1182406",
+                        "file_name": "ch05.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "b8112fab6b812575f7e3ae426e9d0d72"
+                        }
+                    }
+                }, {
+                    "start_time": "00:16:56:07",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 06"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2082205",
+                        "file_name": "ch06.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "49957346a7c0b4675ab60cab5b68aeee"
+                        }
+                    }
+                }, {
+                    "start_time": "00:19:26:01",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 07"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2011112",
+                        "file_name": "ch07.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "3d63d84c3679ced529b7e71fed306e46"
+                        }
+                    }
+                }, {
+                    "start_time": "00:23:50:10",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 08"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2565268",
+                        "file_name": "ch08.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "29695a5eaababdcf055b217e63cc227c"
+                        }
+                    }
+                }, {
+                    "start_time": "00:28:54:17",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 09"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2874234",
+                        "file_name": "ch09.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "368ad0c92f6c1dfa8bc783bad3925714"
+                        }
+                    }
+                }, {
+                    "start_time": "00:33:35:16",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 10"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2161248",
+                        "file_name": "ch10.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "972124f70704115611563ab00eea124c"
+                        }
+                    }
+                }, {
+                    "start_time": "00:36:29:06",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 11"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2372417",
+                        "file_name": "ch11.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "95e9c06598112f4d413dfbad24ed254b"
+                        }
+                    }
+                }, {
+                    "start_time": "00:38:32:07",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 12"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2794269",
+                        "file_name": "ch12.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "726c18e858811695c8597567f172d74d"
+                        }
+                    }
+                }, {
+                    "start_time": "00:39:41:02",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 13"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2790022",
+                        "file_name": "ch13.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5898cc8553f6e9d99826b0704b875587"
+                        }
+                    }
+                }, {
+                    "start_time": "00:41:52:22",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 14"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2856252",
+                        "file_name": "ch14.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "c7cf32808f76221b5cd9479917ff6863"
+                        }
+                    }
+                }, {
+                    "start_time": "00:45:11:19",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 15"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2596394",
+                        "file_name": "ch15.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "c7080f4b77adb6ccb9908ef633072aef"
+                        }
+                    }
+                }, {
+                    "start_time": "00:45:53:00",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 16"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2322606",
+                        "file_name": "ch16.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "26cca6301f59cc7159c641c38b5418a0"
+                        }
+                    }
+                }, {
+                    "start_time": "00:47:24:23",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 17"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2568851",
+                        "file_name": "ch17.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "39fb97745ac4e37f6cec0f21642612cd"
+                        }
+                    }
+                }, {
+                    "start_time": "00:48:01:22",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 18"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2051021",
+                        "file_name": "ch18.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "66c2962b2d599608eb33898c4febd6c4"
+                        }
+                    }
+                }, {
+                    "start_time": "00:49:17:07",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 19"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1837020",
+                        "file_name": "ch19.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "e20df9d9d1c1d1b30540fc4c3d8211d5"
+                        }
+                    }
+                }, {
+                    "start_time": "00:50:46:16",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 20"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2179314",
+                        "file_name": "ch20.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "65ae6f2802f09787b39832a05c9da41c"
+                        }
+                    }
+                }, {
+                    "start_time": "00:52:27:09",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 21"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2273462",
+                        "file_name": "ch21.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "db35c488fe40a3058559de6737371066"
+                        }
+                    }
+                }, {
+                    "start_time": "00:54:11:03",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 22"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2110773",
+                        "file_name": "ch22.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0b19ae361adce67d9500dc432a7430b4"
+                        }
+                    }
+                }, {
+                    "start_time": "00:56:36:22",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 23"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2689866",
+                        "file_name": "ch23.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "4bbed49f3da6ff0605673254a526d08c"
+                        }
+                    }
+                }, {
+                    "start_time": "00:59:04:23",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 24"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1262919",
+                        "file_name": "ch24.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "fd563eb88d6a3446c4fbd87c0a3f228a"
+                        }
+                    }
+                }, {
+                    "start_time": "01:03:29:08",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 25"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1651872",
+                        "file_name": "ch25.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "4f758e9365f043f0573b39dc9acc8ef9"
+                        }
+                    }
+                }, {
+                    "start_time": "01:06:52:13",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 26"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1142288",
+                        "file_name": "ch26.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "7f08bf189635dbd77c85b95f97d3e846"
+                        }
+                    }
+                }, {
+                    "start_time": "01:09:49:22",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 27"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "1957539",
+                        "file_name": "ch27.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "455d46e6a0f0230f74ee4a4ef4745270"
+                        }
+                    }
+                }, {
+                    "start_time": "01:12:10:23",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 28"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2444434",
+                        "file_name": "ch28.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "8a9e7987654261f8c6c1b9b9df815bb3"
+                        }
+                    }
+                }, {
+                    "start_time": "01:16:27:22",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 29"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2668000",
+                        "file_name": "ch29.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "4a869155e3bf335ef3b0a3c09adb7696"
+                        }
+                    }
+                }, {
+                    "start_time": "01:19:14:15",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 30"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2398121",
+                        "file_name": "ch30.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "a8a1c40f63b6e8343731dc4ebe2fb369"
+                        }
+                    }
+                }, {
+                    "start_time": "01:23:14:22",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 31"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "3065232",
+                        "file_name": "ch31.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "e75c6f1bf3299d0dc97658281f241bbb"
+                        }
+                    }
+                }, {
+                    "start_time": "01:25:04:18",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 32"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2918760",
+                        "file_name": "ch32.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "b361c406c6be52ed7ce1f47380dd5949"
+                        }
+                    }
+                }, {
+                    "start_time": "01:28:36:03",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 33"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2580655",
+                        "file_name": "ch33.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "be9bbabfd9dd0c20742c36273664de4f"
+                        }
+                    }
+                }, {
+                    "start_time": "01:31:44:16",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 34"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "2553563",
+                        "file_name": "ch34.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "fab982898f9bd3922edf12729b8b2256"
+                        }
+                    }
+                }, {
+                    "start_time": "01:35:28:18",
+                    "titles": {
+                        "title": {
+                            "_locale": "pt-BR",
+                            "__text": "Capítulo 35"
+                        }
+                    },
+                    "artwork_file": {
+                        "size": "694301",
+                        "file_name": "ch35.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5448332d24f6c343bb50dd69232db673"
+                        }
+                    }
+                }]
+            },
+            "accessibility_info": {
+                "read_only_info": {
+                    "read_only_value": {
+                        "_key": "expired_reason_code",
+                        "__text": "ARCHIVAL_CONTENT"
+                    }
+                }
+            },
+            "theatrical_release_date": "1975-01-01",
+            "synopsis": "Um clássico de Richard O’Brien estrelado por Tim Curry, Barry Bostwick e Susan Sarandon. Explodindo com humor negro e música espetacular.",
+            "production_company": "20th Century Fox",
+            "country": "US",
+            "cast": {
+                "cast_member": [{
+                    "apple_id": "2072615",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "2072615"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_220176"
+                        }]
+                    },
+                    "display_name": "Tim Curry",
+                    "character_name": "Dr. Frank-N-Furter",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "팀 커리",
+                            "_name": "ko-KR"
+                        }, {
+                            "display_name": "提姆‧柯瑞",
+                            "_name": "cmn-Hant"
+                        }, {
+                            "display_name": "蒂姆·克里",
+                            "_name": "cmn-Hans"
+                        }, {
+                            "display_name": "팀 커리",
+                            "_name": "ko"
+                        }, {
+                            "display_name": "Tim Curry",
+                            "_name": "es-419"
+                        }, {
+                            "display_name": "Тим Карри",
+                            "_name": "ru"
+                        }]
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "267316",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "267316"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_220177"
+                        }]
+                    },
+                    "display_name": "Susan Sarandon",
+                    "character_name": "Janet Weiss",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "수잔 서랜든",
+                            "_name": "ko-KR"
+                        }, {
+                            "display_name": "ซูซาน ซาแรนดอน",
+                            "_name": "th-TH"
+                        }, {
+                            "display_name": "Сьюзан Сарандон",
+                            "_name": "ru"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "no"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "fi"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "sv"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "da"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "tr"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "he"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "es-419"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "de"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "fr-FR"
+                        }, {
+                            "display_name": "苏珊·莎兰登",
+                            "_name": "cmn-Hans"
+                        }, {
+                            "display_name": "수잔 서랜던",
+                            "_name": "ko"
+                        }, {
+                            "display_name": "蘇珊·莎蘭登",
+                            "_name": "cmn-Hant"
+                        }, {
+                            "display_name": "Susan Sarandon",
+                            "_name": "pl"
+                        }]
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "2782729",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "2782729"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_220180"
+                        }]
+                    },
+                    "display_name": "Barry Bostwick",
+                    "character_name": "Brad Majors",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "배리 보스트윅",
+                            "_name": "ko"
+                        }, {
+                            "display_name": "貝瑞.波斯威克",
+                            "_name": "cmn-Hant"
+                        }, {
+                            "display_name": "贝瑞.波斯威克",
+                            "_name": "cmn-Hans"
+                        }, {
+                            "display_name": "Hannele Lauri",
+                            "_name": "fi"
+                        }, {
+                            "display_name": "Барри Боствик",
+                            "_name": "ru"
+                        }, {
+                            "display_name": "バリー・ボストウィック",
+                            "_name": "ja"
+                        }, {
+                            "display_name": "Barry Bostwick",
+                            "_name": "nl-NL"
+                        }]
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "629700",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "629700"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_220179"
+                        }]
+                    },
+                    "display_name": "Richard O'Brien",
+                    "character_name": "Riff Raff",
+                    "locales": {
+                        "locale": {
+                            "display_name": "リチャード・オブライエン",
+                            "phonetic_name": "リチャード オブライエン",
+                            "_name": "ja"
+                        }
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "292190640",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "292190640"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_220178"
+                        }]
+                    },
+                    "display_name": "Patricia Quinn",
+                    "character_name": "Magenta",
+                    "locales": {
+                        "locale": {
+                            "phonetic_name": "Patricia Quinn",
+                            "_name": "cmn-Hans"
+                        }
+                    },
+                    "_billing": "top"
+                }]
+            },
+            "crew": {
+                "crew_member": {
+                    "apple_id": "292190646",
+                    "read_only_info": {
+                        "read_only_value": {
+                            "_key": "apple-id",
+                            "__text": "292190646"
+                        }
+                    },
+                    "display_name": "Jim Sharman",
+                    "roles": {
+                        "role": "Director"
+                    },
+                    "_billing": "top"
+                }
+            }
+        },
+        "_version": "film5.2"
+    }
+}
