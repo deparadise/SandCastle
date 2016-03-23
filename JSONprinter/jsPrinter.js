@@ -1,4 +1,6 @@
 // add: http://jsbeautifier.org/
+// http://stackoverflow.com/questions/7346563/loading-local-json-file
+// http://api.jquery.com/jQuery.getJSON/
 
 console.log('JSON printer loaded!');
 var getCoreContentFromTRANSPORTER = function(processCalls) {
