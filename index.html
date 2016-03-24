@@ -67,8 +67,8 @@
 				level: 150,
 				vertAngle: 7,
 				//vertIncrament: 3
-				distance: 10,
-				perspective: 85
+				distance: 12,
+				perspective: 75
 			};
 			var tPlanes = $('.techno-plane');
 			var horizon;
@@ -117,12 +117,12 @@
 
 			var addLongitude = function() {
 				var horizonWidth = horizon.width();
-				console.log('horizonWidth', horizonWidth);
+				//console.log('horizonWidth', horizonWidth);
 				var sectionWidth = 100 / (params.distance);
-				console.log('sectionWidth', sectionWidth);
+				//console.log('sectionWidth', sectionWidth);
 
 				var planeCenter = horizonWidth / 2;
-				console.log('planeCenter:', planeCenter);
+				//console.log('planeCenter:', planeCenter);
 
 				for (var i=0; i < params.distance; i++) {
 					horizon.children('.longitude').append(verticalTemp);
@@ -135,7 +135,7 @@
 					//console.log('pos:', pos);
 
 					var sectionOffset = -Math.round( ( (Math.round(planeCenter - pos.left)) / planeCenter ) * params.perspective );
-					console.log('sectionOffset:', sectionOffset);
+					//console.log('sectionOffset:', sectionOffset);
 
 					$(verticalGroup[i]).css({
 						'width': sectionWidth + '%',
