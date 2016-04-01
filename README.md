@@ -5,6 +5,12 @@
 	<li>Async Programing demo</li>
 	<li>README.md notes automator</li>
 	<li>browser sync from RUMI</li>
+	- Project directory call
+	- video game
+	- posting board
+	- shopping cart
+	- hats
+	- unit testing
 </ol>
 
 <h2>My libs</h2>
