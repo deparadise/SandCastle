@@ -57,8 +57,9 @@ var getFromURL = function (reqURL) {
 	var x2js = new X2JS();
 
 	$.ajax({
-		url: reqURL,
-		crossDomain: true,
+		url: '/JSONprinter/chappie_904.xml',//reqURL,
+		type: 'GET',
+		//crossDomain: true,
 		dataType: 'xml',
 		success: function (response) {
 			var xmlObject = x2js.xml2json(response);
@@ -103,4 +104,43 @@ var myJSON = function () {
 	// 	console.log('res:\n', res);
 	// 	$('.output').text(res);
 	// });
-} // END myJSON
+}; // END myJSON
+
+var generateDummyTransporterResponse = function() {
+		//console.log('I will go get some data from Jolpatx!');
+		var x2js = new X2JS();
+		var jolpatxService = "https://rss-srvr-jolpat.radius60.com:9090/extras2.0/quickbase/lookup?format=xML";
+
+		// Push current transporter request parameters from open project
+		transportReqParams = {
+			provider: 'sonypicturesentertainment', //project.provider.value,
+			vendor_id: 'CHAPPIE_2015_TH_MLF' //project.content_id.value
+		};
+		//console.log('transportReqParams:\n', transportReqParams);
+
+		var coreContentRequest =
+			jolpatxService+
+			"&provider="+transportReqParams.provider+
+			"&vendor_id="+transportReqParams.vendor_id
+		;
+
+		// Activate workingScreen
+		console.log('RUMI is requesting from iTunes Transporter:\n', coreContentRequest);
+
+		$.ajax({
+			url: coreContentRequest,
+			crossDomain: true,
+			dataType: 'xml',
+			success: function (response) {
+				var xmlObject = x2js.xml2json(response);
+				console.log('iTunes Transporter has provided back the package:\n', xmlObject.package.video.vendor_id);
+				//console.log('xmlObject:\n', xmlObject);
+
+				// Assign xml to project for reference
+				document.write(JSON.stringify(xmlObject));
+			},
+			error: function (response) {
+				transporterErrHandle(response, callBack);
+			}
+		});
+	}; // END getCoreContentFromTRANSPORTER
