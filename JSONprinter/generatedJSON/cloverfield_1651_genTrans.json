@@ -1,0 +1,2450 @@
+{
+    "package": {
+        "metadata_token": "1462481762059-d4e8ae6d1265070a240b3d4344dec4eed70eb8b24f7bd4f07d2f0f22552ced09",
+        "language": "en-US",
+        "provider": "Paramount",
+        "video": {
+            "read_only_info": {
+                "read_only_value": {
+                    "_key": "content-review-status",
+                    "__text": "NotOnStore-Hidden"
+                }
+            },
+            "original_spoken_locale": "en-US",
+            "vendor_offer_code": "35206001",
+            "copyright_cline": "Copyright © 2008 by Paramount Pictures. All Rights Reserved.",
+            "release_date": "2008-01-18",
+            "title": "Cloverfield",
+            "vendor_id": "35206001",
+            "xid": "Paramount:vendor_id:35206001",
+            "assets": {
+                "asset": [{
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "proxy-encode-url-expires",
+                            "__text": "2016-05-07T19:56:00-07:00"
+                        }, {
+                            "_key": "proxy-encode-url",
+                            "__text": "http://a80.phobos.apple.com/us/r30/Video69/v4/36/ed/6e/36ed6ef3-ea50-9dcc-4ed9-321d1039fb8e/temp..gybredky.s.m4v?downloadKey=1462676160_bd79683386c9a5b1ecda7dc35f8a23f2"
+                        }]
+                    },
+                    "data_file": [{
+                        "size": "107210944764",
+                        "file_name": "35206_audiofixed.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "ed405d452fe151431e53d89458e646f1"
+                        },
+                        "_role": "source"
+                    }, {
+                        "size": "5866955804",
+                        "file_name": "35206_audio_DE.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "832bac9471245b3d3b79d96a3168e5e6"
+                        },
+                        "locale": {
+                            "_name": "de-DE"
+                        },
+                        "_role": "audio"
+                    }, {
+                        "size": "1466618903",
+                        "file_name": "PMT-CLOVERFIELD-POL-AUDIO.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "04688860c9ee7bca56ba6e8b0002032f"
+                        },
+                        "locale": {
+                            "_name": "pl-PL"
+                        },
+                        "_role": "audio"
+                    }, {
+                        "size": "8506064068",
+                        "file_name": "PMT-CLOVERFIELD-RU-AUDIO.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "3dc654b9321d6cf6317879048c7a9fb5"
+                        },
+                        "locale": {
+                            "_name": "ru-RU"
+                        },
+                        "_role": "audio"
+                    }, {
+                        "size": "5867117123",
+                        "file_name": "PMT-CLOVERFIELD-TUR-AUDIO.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "2849ff4e62eca2f68276c267c80d3b65"
+                        },
+                        "locale": {
+                            "_name": "tr-TR"
+                        },
+                        "_role": "audio"
+                    }, {
+                        "size": "182007",
+                        "file_name": "35206.scc",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "f7978a1be985b5edd36de0f4c7643893"
+                        },
+                        "_role": "captions"
+                    }, {
+                        "size": "1564",
+                        "file_name": "Cloverfield_35206_001_2D_FTR_SUBS_T3281_Subtitle_Forced_ITT_2398_Texted_MREF0_polST_80263923.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "49b1ffdbed071154e7023e2c4d3023da"
+                        },
+                        "locale": {
+                            "_name": "pl-PL"
+                        },
+                        "_role": "forced_subtitles"
+                    }, {
+                        "size": "3402",
+                        "file_name": "Cloverfield_FORCED_RUS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "a526f5cf0f594c0510ab060cc950f4e7"
+                        },
+                        "locale": {
+                            "_name": "ru-RU"
+                        },
+                        "_role": "forced_subtitles"
+                    }, {
+                        "size": "1883",
+                        "file_name": "Cloverfield_Forced_TUR.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "cf14582fc27a904abee5de6cb4aad41f"
+                        },
+                        "locale": {
+                            "_name": "tr-TR"
+                        },
+                        "_role": "forced_subtitles"
+                    }, {
+                        "size": "29173",
+                        "file_name": "2158889-00-F-CLOVERFIELD.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "06dc6de43f9024f5459b164d231ed129"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "47900",
+                        "file_name": "2158889-00-M-CLOVERFIELD.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "e8576b4b8c4c6719681447beaa59f866"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "27988",
+                        "file_name": "2212698-00-F-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5b8c2dea2b121ff0d736db4f3e310aa5"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "48814",
+                        "file_name": "2212698-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "fad0b777285ab266190e87cffaa1ad23"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "27864",
+                        "file_name": "2339306-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "1777f77088a79dc543c5b71875935b9b"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "34052",
+                        "file_name": "2339559-00-F-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "79d7435ecaec356d54e318c40f1e5e76"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "48259",
+                        "file_name": "2339559-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5e6a06411223455626c4ceef193cfbbf"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "47217",
+                        "file_name": "2400406-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "81de093eb59177a7f09acfaea44cf55a"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "47184",
+                        "file_name": "2403657-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "74e31685bbcfe5fd33dd7c000478892b"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "47378",
+                        "file_name": "2411346-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "635ffd4b034fe5350f554537d4750ec4"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "46962",
+                        "file_name": "2436853-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "d04f80013b4d271795e71cfac0b9d492"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "98537",
+                        "file_name": "Cloverfield_35206_001_2D_FTR_SUBS_T3277_Subtitle_Full_ITT_2398_Texted_MREF0_bulST_80284570.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "a9ea72c824d67a16a29ac20740a57052"
+                        },
+                        "locale": {
+                            "_name": "bg-BG"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "80536",
+                        "file_name": "Cloverfield_35206_001_2D_FTR_SUBS_T3277_Subtitle_Full_ITT_2398_Texted_MREF0_polST_80263938.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "1d16c7e5bd398d28584842531be69693"
+                        },
+                        "locale": {
+                            "_name": "pl-PL"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "71291",
+                        "file_name": "Cloverfield_35206_001_2D_FTR_SUBS_T3277_Subtitle_Full_ITT_2398_Texted_mttST_80166115.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "6604441f33649784869b2d9c5e4e96e5"
+                        },
+                        "locale": {
+                            "_name": "cmn-Hant"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "81511",
+                        "file_name": "CLOVERFIELD_35206_001_2D_FTR_T3277_Subtitle_Full_ITT_2398_N_A_N_A_Texted_danST_2013_04_16_525299.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "b3efb132f0d428966df9551690c21129"
+                        },
+                        "locale": {
+                            "_name": "da-DK"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "75264",
+                        "file_name": "CLOVERFIELD_35206_001_2D_FTR_T3277_Subtitle_Full_ITT_2398_N_A_N_A_Texted_finST_2013_04_16_525298.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "1973caaa1a79b1ffdd54dbcd1b9e82c1"
+                        },
+                        "locale": {
+                            "_name": "fi-FI"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "67983",
+                        "file_name": "CLOVERFIELD_35206_001_2D_FTR_T3277_Subtitle_Full_ITT_2398_N_A_N_A_Texted_nldST_2013_04_16_525297.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "d86e23045093f0e938b24f58a8bcfa3f"
+                        },
+                        "locale": {
+                            "_name": "nl-NL"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "75378",
+                        "file_name": "CLOVERFIELD_35206_001_2D_FTR_T3277_Subtitle_Full_ITT_2398_N_A_N_A_Texted_nnoST_2013_04_16_525296.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "dcb9edbe776b65cf905bd66117f9692f"
+                        },
+                        "locale": {
+                            "_name": "no-NO"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "82659",
+                        "file_name": "CLOVERFIELD_35206_001_2D_FTR_T3277_Subtitle_Full_ITT_2398_N_A_N_A_Texted_sweST_2013_04_16_525295.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "c5afe31a9956684c0d23e6cc35465d65"
+                        },
+                        "locale": {
+                            "_name": "sv-SE"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "78789",
+                        "file_name": "Cloverfield_35206_001_FTR_SUBS_T3277_Subtitle_Full_ITT_2398_Texted_MREF0_porST_80330049.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "9624bb887c63336ffad654bd5f8da05a"
+                        },
+                        "locale": {
+                            "_name": "pt-PT"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "98523",
+                        "file_name": "Cloverfield_Full_ARB.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "bd2fb34484d47b82de1b2c333489a025"
+                        },
+                        "locale": {
+                            "_name": "ar-SA"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "87187",
+                        "file_name": "Cloverfield_Full_BAH.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5bffaa826544eeeb63e402944946cee7"
+                        },
+                        "locale": {
+                            "_name": "id-ID"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "97173",
+                        "file_name": "Cloverfield_Full_HEB.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "7158751305a6531ced24c958715a98d0"
+                        },
+                        "locale": {
+                            "_name": "he-IL"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "131416",
+                        "file_name": "Cloverfield_FULL_RUS.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "3305997e373ae4a37cf0343063441365"
+                        },
+                        "locale": {
+                            "_name": "ru-RU"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "83050",
+                        "file_name": "Cloverfield_Full_TUR.itt",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "57b1ee7a14f3c6adbc62eeb19195bc56"
+                        },
+                        "locale": {
+                            "_name": "tr-TR"
+                        },
+                        "_role": "subtitles"
+                    }, {
+                        "size": "7947492",
+                        "file_name": "PMT-CLOVERFIELD-POL-DUBCARD.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "523dce77210ae5f28ff22d7a001886de"
+                        },
+                        "locale": {
+                            "_name": "pl-PL"
+                        },
+                        "_role": "video.end.dub_credits"
+                    }, {
+                        "size": "73159088",
+                        "file_name": "PMT-CLOVERFIELD-RU-DUBCARD.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "5f37ec3ef43c16e2097292fbe2bdedcc"
+                        },
+                        "locale": {
+                            "_name": "ru-RU"
+                        },
+                        "_role": "video.end.dub_credits"
+                    }],
+                    "_type": "full"
+                }, {
+                    "data_file": {
+                        "size": "2212112258",
+                        "file_name": "35206p_ProRes.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "c6f96f705b22a23361c177d371aab5eb"
+                        },
+                        "_role": "source"
+                    },
+                    "_type": "preview"
+                }, {
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "proxy-encode-url-expires",
+                            "__text": "2016-05-07T19:56:00-07:00"
+                        }, {
+                            "_key": "proxy-encode-url",
+                            "__text": "http://a1631.phobos.apple.com/us/r30/Video/v4/9d/9c/57/9d9c577c-b506-8d90-b8a2-7db5e0d89527/temp..kjzopmhr.s.m4v?downloadKey=1462676160_613045799c255a91aaf32ef2f10c14ba"
+                        }]
+                    },
+                    "territories": {
+                        "territory": "RU"
+                    },
+                    "data_file": [{
+                        "size": "2026644203",
+                        "file_name": "PMT-CLOVERFIELD-RU-HD-16X9LB-TRAILER.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0c495790220e7193566c297c523cf965"
+                        },
+                        "locale": {
+                            "_name": "ru-RU"
+                        },
+                        "attribute": [{
+                            "_name": "crop.top",
+                            "__text": "134"
+                        }, {
+                            "_name": "crop.right",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.bottom",
+                            "__text": "134"
+                        }, {
+                            "_name": "crop.left",
+                            "__text": "2"
+                        }],
+                        "_role": "source"
+                    }, {
+                        "size": "47391",
+                        "file_name": "2185915-00-M-CLOVERFIELD.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "a1ed55d53fb9fec5f001aa89abed441e"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "29163",
+                        "file_name": "2185915-00-T-CLOVERFIELD.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "67af75b967aca62fca0fe1630415af5e"
+                        },
+                        "_role": "notes"
+                    }],
+                    "_type": "preview"
+                }, {
+                    "territories": {
+                        "territory": "DE"
+                    },
+                    "data_file": {
+                        "size": "1962283847",
+                        "file_name": "35206p_DE.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "032261aada4f75cc5aa67a6a8c51ac11"
+                        },
+                        "_role": "source"
+                    },
+                    "_type": "preview"
+                }, {
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "proxy-encode-url-expires",
+                            "__text": "2016-05-07T19:56:00-07:00"
+                        }, {
+                            "_key": "proxy-encode-url",
+                            "__text": "http://a1802.phobos.apple.com/us/r30/Video6/v4/9e/d8/b5/9ed8b5b9-897b-c803-b1ef-4f404b7a3394/temp..voyqxiny.s.m4v?downloadKey=1462676160_a851b2d90247691dc370d5c6a382874c"
+                        }]
+                    },
+                    "territories": {
+                        "territory": "IL"
+                    },
+                    "data_file": [{
+                        "size": "1997874237",
+                        "file_name": "PMT-CLOVERFIELD-HEBSUB-HD-16X9LB-TRAILER.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "e4d64f04573d2334b23e6c437951b9e4"
+                        },
+                        "locale": {
+                            "_name": "en-US"
+                        },
+                        "attribute": [{
+                            "_name": "crop.left",
+                            "__text": "4"
+                        }, {
+                            "_name": "crop.top",
+                            "__text": "134"
+                        }, {
+                            "_name": "crop.bottom",
+                            "__text": "134"
+                        }, {
+                            "_name": "image.burned_subtitles.locale",
+                            "__text": "he-IL"
+                        }, {
+                            "_name": "image.burned_forced_narrative.locale",
+                            "__text": "he-IL"
+                        }, {
+                            "_name": "crop.right",
+                            "__text": "4"
+                        }],
+                        "_role": "source"
+                    }, {
+                        "size": "47264",
+                        "file_name": "2338200-00-M-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "957f98483043e08d3850ea3b6fe2f1e5"
+                        },
+                        "_role": "notes"
+                    }, {
+                        "size": "29240",
+                        "file_name": "2338200-00-T-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "06c61e328860a68a569af226d8fe0c97"
+                        },
+                        "_role": "notes"
+                    }],
+                    "_type": "preview"
+                }, {
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "proxy-encode-url-expires",
+                            "__text": "2016-05-07T19:56:00-07:00"
+                        }, {
+                            "_key": "proxy-encode-url",
+                            "__text": "http://a1303.phobos.apple.com/us/r30/Video4/v4/38/f7/63/38f763f7-ee05-6050-d0e9-71b8e245e9f4/temp..yyzyqxwt.s.m4v?downloadKey=1462676160_6c2489024e91a2713febe5534af73166"
+                        }]
+                    },
+                    "territories": {
+                        "territory": "TR"
+                    },
+                    "data_file": [{
+                        "size": "2256589384",
+                        "file_name": "PMT-CLOVERFIELD-TURSUB-HD-16X9FF-TRAILER.mov",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "3d49d3b3427c06f9d63365c505fae346"
+                        },
+                        "locale": {
+                            "_name": "en-US"
+                        },
+                        "attribute": [{
+                            "_name": "image.burned_forced_narrative.locale",
+                            "__text": "tr-TR"
+                        }, {
+                            "_name": "crop.left",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.bottom",
+                            "__text": "2"
+                        }, {
+                            "_name": "image.burned_subtitles.locale",
+                            "__text": "tr-TR"
+                        }, {
+                            "_name": "crop.top",
+                            "__text": "2"
+                        }, {
+                            "_name": "crop.right",
+                            "__text": "2"
+                        }],
+                        "_role": "source"
+                    }, {
+                        "size": "29290",
+                        "file_name": "2339559-00-T-.pdf",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "2b9000d27a640f2c166c12889586bb0b"
+                        },
+                        "_role": "notes"
+                    }],
+                    "_type": "preview"
+                }, {
+                    "territories": {
+                        "territory": "WW"
+                    },
+                    "data_file": {
+                        "size": "2585927",
+                        "file_name": "Cloverfield_GEN_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "d41d8cd98f00b204e9800998ecf8427e"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "DK"
+                    },
+                    "data_file": {
+                        "size": "2525899",
+                        "file_name": "Cloverfield_DK_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0241ebb0cd5e17df679d049c276c0cef"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "DE"
+                    },
+                    "data_file": {
+                        "size": "934916",
+                        "file_name": "mzi.dpxfjkmr.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "59ac2a1c6c025f83938261be47cd7a0d"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "US"
+                    },
+                    "data_file": {
+                        "size": "1090290",
+                        "file_name": "Cloverfield_EN_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "d41d8cd98f00b204e9800998ecf8427e"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "SE"
+                    },
+                    "data_file": {
+                        "size": "2525899",
+                        "file_name": "Cloverfield_SE_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0241ebb0cd5e17df679d049c276c0cef"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": ["IL", "ID"]
+                    },
+                    "data_file": {
+                        "size": "1765737",
+                        "file_name": "Cloverfield_EN_1400x2100.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "d6f0c119359ef1224b11d643ee521820"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "RU"
+                    },
+                    "data_file": {
+                        "size": "2838701",
+                        "file_name": "Cloverfield_RU_1400x2100.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "a3b30d3fa4f4fa6a3557c0922393da74"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "IN"
+                    },
+                    "data_file": {
+                        "size": "2596609",
+                        "file_name": "Cloverfield_IN_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "a7eecf988cb8437fc68d173072d01ca6"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "FI"
+                    },
+                    "data_file": {
+                        "size": "2525899",
+                        "file_name": "Cloverfield_FI_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0241ebb0cd5e17df679d049c276c0cef"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "HU"
+                    },
+                    "data_file": {
+                        "size": "837196",
+                        "file_name": "Cloverfield_2008_DVD_Hu_1400x2100.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "754149f613b8baa220bcaaf94cbc8280"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "PT"
+                    },
+                    "data_file": {
+                        "size": "2759662",
+                        "file_name": "Cloverfield_PT_1400x2100.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "d41d8cd98f00b204e9800998ecf8427e"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "NO"
+                    },
+                    "data_file": {
+                        "size": "2525899",
+                        "file_name": "Cloverfield_NO_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0241ebb0cd5e17df679d049c276c0cef"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": ["NL", "BE"]
+                    },
+                    "data_file": {
+                        "size": "2525899",
+                        "file_name": "Cloverfield_BEN_1400x2100_noquote.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "0241ebb0cd5e17df679d049c276c0cef"
+                        }
+                    },
+                    "_type": "artwork"
+                }, {
+                    "territories": {
+                        "territory": "TR"
+                    },
+                    "data_file": {
+                        "size": "2603337",
+                        "file_name": "Cloverfield_TR_1400x2100.jpg",
+                        "checksum": {
+                            "_type": "md5",
+                            "__text": "094d4297b46403fd8e1cd7abd25a8224"
+                        }
+                    },
+                    "_type": "artwork"
+                }]
+            },
+            "genres": {
+                "genre": [{
+                    "_code": "ACTION-ADVENTURE-00",
+                    "__text": "Action & Adventure"
+                }, {
+                    "_code": "THRILLER-00",
+                    "__text": "Thriller"
+                }, {
+                    "_code": "SCIFI-FANTASY-00",
+                    "__text": "Sci-Fi & Fantasy"
+                }]
+            },
+            "products": {
+                "product": [{
+                    "territory": "AE",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2014-08-22",
+                    "wholesale_price_tier": "6",
+                    "hd_wholesale_price_tier": "103",
+                    "available_for_vod_date": "2014-08-22",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-AE",
+                            "__text": "https://itunes.apple.com/ae/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "AT",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2011-12-20",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2011-12-20",
+                    "physical_release_date": "2011-12-20",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-AT",
+                            "__text": "https://itunes.apple.com/at/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "AU",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-07-15",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "115",
+                    "available_for_vod_date": "2013-01-10",
+                    "physical_release_date": "2008-04-17",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-AU",
+                            "__text": "https://itunes.apple.com/au/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "BE",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2013-06-22",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-BE",
+                            "__text": "https://itunes.apple.com/be/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "BG",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2015-05-29",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2015-05-29",
+                    "physical_release_date": "2008-07-07",
+                    "hd_physical_release_date": "2008-07-07",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-BG",
+                            "__text": "https://itunes.apple.com/bg/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "BN",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-BN",
+                            "__text": "https://itunes.apple.com/bn/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "CA",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-05-20",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2011-06-14",
+                    "unavailable_for_vod_date": "2025-12-31",
+                    "physical_release_date": "2008-04-17",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-CA",
+                            "__text": "https://itunes.apple.com/ca/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "CH",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2011-12-20",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2011-12-20",
+                    "physical_release_date": "2011-12-20",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-CH",
+                            "__text": "https://itunes.apple.com/ch/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "CY",
+                    "cleared_for_sale": "true",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "unavailable_for_vod_date": "2017-01-01",
+                    "physical_release_date": "2008-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "false",
+                    "cleared_for_hd_sale": "false",
+                    "sales_end_date": "2016-12-31",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-CY",
+                            "__text": "https://itunes.apple.com/cy/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "CZ",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2014-12-09",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2014-12-09",
+                    "unavailable_for_vod_date": "2017-01-01",
+                    "physical_release_date": "2016-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "sales_end_date": "2016-12-31",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-CZ",
+                            "__text": "https://itunes.apple.com/cz/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "DE",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2011-12-20",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2011-12-20",
+                    "physical_release_date": "2011-12-20",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-DE",
+                            "__text": "https://itunes.apple.com/de/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "DK",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-DK",
+                            "__text": "https://itunes.apple.com/dk/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "EE",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-EE",
+                            "__text": "https://itunes.apple.com/ee/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "FI",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-06-22",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-FI",
+                            "__text": "https://itunes.apple.com/fi/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "GB",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-06-09",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "107",
+                    "available_for_vod_date": "2011-12-05",
+                    "physical_release_date": "2008-06-09",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-GB",
+                            "__text": "https://itunes.apple.com/gb/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "GR",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-GR",
+                            "__text": "https://itunes.apple.com/gr/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "HK",
+                    "cleared_for_sale": "true",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "105",
+                    "physical_release_date": "2008-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-HK",
+                            "__text": "https://itunes.apple.com/hk/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "HU",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-HU",
+                            "__text": "https://itunes.apple.com/hu/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "ID",
+                    "cleared_for_sale": "false",
+                    "sales_start_date": "2011-12-20",
+                    "wholesale_price_tier": "1",
+                    "cleared_for_vod": "false",
+                    "cleared_for_hd_vod": "false",
+                    "cleared_for_hd_sale": "false",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-ID",
+                            "__text": "https://itunes.apple.com/id/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "IE",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-08-22",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2011-12-05",
+                    "physical_release_date": "2008-08-22",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-IE",
+                            "__text": "https://itunes.apple.com/ie/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "IL",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2014-08-05",
+                    "wholesale_price_tier": "6",
+                    "hd_wholesale_price_tier": "103",
+                    "available_for_vod_date": "2014-08-05",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-IL",
+                            "__text": "https://itunes.apple.com/il/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "IN",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2014-08-22",
+                    "wholesale_price_tier": "5",
+                    "hd_wholesale_price_tier": "101",
+                    "available_for_vod_date": "2014-08-22",
+                    "unavailable_for_vod_date": "2026-12-31",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "sales_end_date": "2026-12-31",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-IN",
+                            "__text": "https://itunes.apple.com/in/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "KH",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-KH",
+                            "__text": "https://itunes.apple.com/kh/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "LA",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-LA",
+                            "__text": "https://itunes.apple.com/la/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "LK",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-LK",
+                            "__text": "https://itunes.apple.com/lk/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "LT",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2012-12-10",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-LT",
+                            "__text": "https://itunes.apple.com/lt/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "LU",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-05-10",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2013-05-10",
+                    "physical_release_date": "2013-05-10",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "preorder_sales_start_date": "2013-04-24",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-LU",
+                            "__text": "https://itunes.apple.com/lu/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "LV",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2012-12-10",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-LV",
+                            "__text": "https://itunes.apple.com/lv/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "MO",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-07-19",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-MO",
+                            "__text": "https://itunes.apple.com/mo/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "MT",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2013-03-10",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-MT",
+                            "__text": "https://itunes.apple.com/mt/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "MY",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-MY",
+                            "__text": "https://itunes.apple.com/my/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "NL",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2013-06-22",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-NL",
+                            "__text": "https://itunes.apple.com/nl/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "NO",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-NO",
+                            "__text": "https://itunes.apple.com/no/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "NZ",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-07-01",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "115",
+                    "available_for_vod_date": "2010-09-23",
+                    "physical_release_date": "2008-04-17",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-NZ",
+                            "__text": "https://itunes.apple.com/nz/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "PH",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-PH",
+                            "__text": "https://itunes.apple.com/ph/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "PL",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-06-09",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "unavailable_for_vod_date": "2017-01-01",
+                    "physical_release_date": "2000-01-01",
+                    "hd_physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "sales_end_date": "2016-12-31",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-PL",
+                            "__text": "https://itunes.apple.com/pl/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "PT",
+                    "cleared_for_sale": "true",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "physical_release_date": "2008-05-24",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-PT",
+                            "__text": "https://itunes.apple.com/pt/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "RO",
+                    "cleared_for_sale": "false",
+                    "sales_start_date": "2012-12-10",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2012-12-10",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "false",
+                    "cleared_for_hd_vod": "false",
+                    "cleared_for_hd_sale": "false",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-RO",
+                            "__text": "https://itunes.apple.com/ro/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "RU",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-03-15",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "103",
+                    "available_for_vod_date": "2013-03-15",
+                    "physical_release_date": "2011-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-RU",
+                            "__text": "https://itunes.apple.com/ru/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "SE",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-SE",
+                            "__text": "https://itunes.apple.com/se/movie/cloverfield/id277528737?l=en&ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "SG",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2008-06-15",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-SG",
+                            "__text": "https://itunes.apple.com/sg/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "SI",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2015-04-15",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "108",
+                    "available_for_vod_date": "2015-12-15",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-SI",
+                            "__text": "https://itunes.apple.com/si/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "SK",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2015-07-13",
+                    "wholesale_price_tier": "8",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2015-07-13",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-SK",
+                            "__text": "https://itunes.apple.com/sk/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "TH",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-TH",
+                            "__text": "https://itunes.apple.com/th/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "TR",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2011-12-20",
+                    "wholesale_price_tier": "10",
+                    "hd_wholesale_price_tier": "103",
+                    "available_for_vod_date": "2015-02-16",
+                    "physical_release_date": "2008-06-24",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-TR",
+                            "__text": "https://itunes.apple.com/tr/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "TW",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-06-04",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "104",
+                    "physical_release_date": "2000-01-01",
+                    "hd_physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-TW",
+                            "__text": "https://itunes.apple.com/tw/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "US",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2008-04-29",
+                    "wholesale_price_tier": "77",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2011-06-14",
+                    "unavailable_for_vod_date": "2025-12-31",
+                    "physical_release_date": "2008-04-29",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-US",
+                            "__text": "https://itunes.apple.com/us/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "VN",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2013-02-18",
+                    "wholesale_price_tier": "3",
+                    "hd_wholesale_price_tier": "106",
+                    "available_for_vod_date": "2013-02-18",
+                    "physical_release_date": "2000-01-01",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-VN",
+                            "__text": "https://itunes.apple.com/vn/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }, {
+                    "territory": "ZA",
+                    "cleared_for_sale": "true",
+                    "sales_start_date": "2014-08-22",
+                    "wholesale_price_tier": "8",
+                    "hd_wholesale_price_tier": "105",
+                    "available_for_vod_date": "2014-08-22",
+                    "unavailable_for_vod_date": "2026-12-31",
+                    "physical_release_date": "2000-12-31",
+                    "vod_type": "Library",
+                    "cleared_for_vod": "true",
+                    "cleared_for_hd_vod": "true",
+                    "cleared_for_hd_sale": "true",
+                    "sales_end_date": "2026-12-31",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "277528737"
+                        }, {
+                            "_key": "storeURL-ZA",
+                            "__text": "https://itunes.apple.com/za/movie/cloverfield/id277528737?ls=1"
+                        }]
+                    }
+                }]
+            },
+            "subtype": "feature",
+            "ratings": {
+                "rating": [{
+                    "_system": "mpaa",
+                    "_code": "PG-13",
+                    "_reason": "For violence, terror and disturbing images.",
+                    "__text": "PG-13"
+                }, {
+                    "_system": "ro-movies",
+                    "_code": "N-15",
+                    "__text": "N-15"
+                }, {
+                    "_system": "no-movies",
+                    "_code": "15",
+                    "__text": "15"
+                }, {
+                    "_system": "be-movies",
+                    "_code": "AL-G",
+                    "__text": "AL/G"
+                }, {
+                    "_system": "my-movies",
+                    "_code": "U",
+                    "__text": "U"
+                }, {
+                    "_system": "vn-movies",
+                    "_code": "UR",
+                    "__text": "Không cắt cảnh"
+                }, {
+                    "_system": "ca-chvrs",
+                    "_code": "14A",
+                    "_reason": "Frightening scenes and violence.",
+                    "__text": "14A"
+                }, {
+                    "_system": "de-fsk",
+                    "_code": "12+",
+                    "__text": "Ab 12 Jahren"
+                }, {
+                    "_system": "hu-movies",
+                    "_code": "16",
+                    "__text": "16"
+                }, {
+                    "_system": "lk-movies",
+                    "_code": "UR",
+                    "__text": "Unrated"
+                }, {
+                    "_system": "bbfc",
+                    "_code": "15",
+                    "_reason": "Contains strong sustained threat and moderate horror.",
+                    "__text": "15"
+                }, {
+                    "_system": "ie-ifco",
+                    "_code": "15",
+                    "__text": "15"
+                }, {
+                    "_system": "fi-movies",
+                    "_code": "K-13",
+                    "__text": "K-13"
+                }, {
+                    "_system": "kh-movies",
+                    "_code": "UR",
+                    "__text": "Unrated"
+                }, {
+                    "_system": "lu-movies",
+                    "_code": "AL-G",
+                    "__text": "AL/G"
+                }, {
+                    "_system": "ee-movies",
+                    "_code": "ALL",
+                    "__text": "Pere/L"
+                }, {
+                    "_system": "nz-oflc",
+                    "_code": "M",
+                    "__text": "M"
+                }, {
+                    "_system": "mt-movies",
+                    "_code": "16",
+                    "__text": "16"
+                }, {
+                    "_system": "lv-movies",
+                    "_code": "12+",
+                    "__text": "12+"
+                }, {
+                    "_system": "nl-movies",
+                    "_code": "16",
+                    "__text": "16"
+                }, {
+                    "_system": "sg-movies",
+                    "_code": "PG",
+                    "_reason": "Some Disturbing Images 些许画面令人不适\r\n",
+                    "__text": "PG"
+                }, {
+                    "_system": "la-movies",
+                    "_code": "UR",
+                    "__text": "Unrated"
+                }, {
+                    "_system": "ph-movies",
+                    "_code": "UR",
+                    "__text": "Unrated"
+                }, {
+                    "_system": "gr-movies",
+                    "_code": "K-13",
+                    "__text": "K-13"
+                }, {
+                    "_system": "mo-movies",
+                    "_code": "UR",
+                    "__text": "Unrated"
+                }, {
+                    "_system": "dk-movies",
+                    "_code": "15",
+                    "__text": "15"
+                }, {
+                    "_system": "ru-movies",
+                    "_code": "16",
+                    "__text": "16+"
+                }, {
+                    "_system": "fsk",
+                    "_code": "12+",
+                    "__text": "Ab 12 Jahren"
+                }, {
+                    "_system": "ch-movies",
+                    "_code": "12",
+                    "__text": "12"
+                }, {
+                    "_system": "cy-movies",
+                    "_code": "12",
+                    "__text": "(12)"
+                }, {
+                    "_system": "lt-movies",
+                    "_code": "V",
+                    "__text": "V"
+                }, {
+                    "_system": "au-oflc",
+                    "_code": "M",
+                    "__text": "M"
+                }, {
+                    "_system": "se-movies",
+                    "_code": "15+",
+                    "__text": "Från 15 år"
+                }, {
+                    "_system": "th-movies",
+                    "_code": "18+",
+                    "__text": "น 18+"
+                }, {
+                    "_system": "bn-movies",
+                    "_code": "UR",
+                    "__text": "Tidak Dinilai"
+                }, {
+                    "_system": "il-movies",
+                    "_code": "14+",
+                    "__text": "14+"
+                }, {
+                    "_system": "za-movies",
+                    "_code": "13",
+                    "__text": "13"
+                }, {
+                    "_system": "tr-movies",
+                    "_code": "13+",
+                    "__text": "13+"
+                }, {
+                    "_system": "id-movies",
+                    "_code": "D",
+                    "__text": "D"
+                }, {
+                    "_system": "in-movies",
+                    "_code": "A",
+                    "__text": "A"
+                }, {
+                    "_system": "ae-movies",
+                    "_code": "15",
+                    "__text": "15"
+                }, {
+                    "_system": "si-movies",
+                    "_code": "12",
+                    "__text": "12"
+                }, {
+                    "_system": "cz-movies",
+                    "_code": "15+",
+                    "__text": "15+"
+                }, {
+                    "_system": "bg-movies",
+                    "_code": "UR",
+                    "__text": "Unrated"
+                }, {
+                    "_system": "hk-movies",
+                    "_code": "18+",
+                    "__text": "第II類"
+                }, {
+                    "_system": "pl-movies",
+                    "_code": "UR",
+                    "__text": "Nie Nadano Kategorii Wiekowej"
+                }, {
+                    "_system": "sk-movies",
+                    "_code": "15",
+                    "_reason": "36526",
+                    "__text": "15"
+                }, {
+                    "_system": "tw-movies",
+                    "_code": "6",
+                    "__text": "保護級"
+                }, {
+                    "_system": "pt-movies",
+                    "_code": "M12",
+                    "__text": "M/12"
+                }]
+            },
+            "type": "film",
+            "locales": {
+                "locale": [{
+                    "title": "Монстро",
+                    "synopsis": "Оно уже здесь От продюсера-провидца Дж. Дж. Абрамса и режиссера Мэтта Ривза  сенсация мирового масштаба. Полтора часа ужаса и напряжения  такое невозможно забыть! Прощальную вечеринку уезжающего в Японию Роба прерывает громогласный рык  нечто напало на Нью-Йорк, сея панику, разрушения и пожирая людей. Армия бессильна против гигантского монстра, Манхэттен объявлен закрытой зоной, но где-то неподалеку от Центрального парка в беду попала девушка Роба Премия «Сатурн» за лучший научно-фантастический фильм.",
+                    "_name": "ru-RU"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Visionäärituottaja J.J. Abramsilta (Lost) ja ohjaaja Matt Reevesiltä tulee maailmanlaajuinen sensaatio, joka tarjoaa katsojille päättymätöntä kauhua ja jännitystä. Tästä puhutaan nyt.",
+                    "_name": "fi-FI"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Der visionäre Produzent J.J. Abrams (Lost) und Regisseur Matt Reeves schufen die weltweite Sensation, über die jedermann redet: Adrenalinschübe und Spannung nonstop!",
+                    "_name": "de-DE"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Fem unga New York-bor ställer till med avskedsfest samma kväll som ett monster stort som en skyskrapa attackerar staden. Berättat från deras kameras synpunkt, filmen är ett bevis på deras attentat att överleva den mest overkliga, hemska händelsen i deras liv.",
+                    "_name": "sv-SE"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Producent J.J.Abrams (Lost) en regisseur Matt Reeves trakteren hun fans op de meest innovatieve spektakelfilm van het jaar die je op het puntje van je stoel doet zitten! Vijf jonge New Yorkers geven een afscheidsfeestje voor hun vriend Rob die binnenkort naar Japan vertrekt. Terwijl het feest in volle gang is, wordt de stad plotseling aangevallen. Verteld vanuit het perspectief van hun eigen videocamera, volg je de vrienden die zo snel mogelijk Manhattanmoeten verlaten, willen ze het er levend vanaf brengen...",
+                    "_name": "nl-NL"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Der visionäre Produzent J.J. Abrams (Lost) und Regisseur Matt Reeves schufen die weltweite Sensation, über die jedermann redet: Adrenalinschübe und Spannung nonstop!",
+                    "_name": "de-CH"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Hemmeligheden er afsløret. Fra det visionære makkerpar filmproducent J.J. Abrams (Lost) og instruktør Matt Reeves kommer\r\nintet mindre end en verdenssensation af nonstop gys og spænding.",
+                    "_name": "da-DK"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Hemmeligheten er avslørt. Fra den visjonære produsenten J.J. Abrams (Lost) og regissøren Matt Reeves kommer verdenssensasjonen av nonstop terror og spenning som alle snakker om.",
+                    "_name": "no-NO"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "दूरदर्शी निर्माता जे.जे. अब्रामस (खोया) और निर्देशक मैट रीव्स की तरफ़ से आ रहा है दुनिया भर में सनसनी फैलाने वाला लगातार चलता आतंक और रहस्य जिसके बारे में हर कोई बात कर रहा है।",
+                    "_name": "hi-IN"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Dari produser visioner, J.J. Abrams (Lost) dan sutradara Matt Reeves, hadir sensasi teror dan ketegangan tanpa henti yang dibicarakan orang di seluruh dunia.",
+                    "_name": "id-ID"
+                }, {
+                    "title": "Canavar",
+                    "synopsis": "Beş New Yorker’lu genç, gökdelen büyüklüğündeki bir canavarın şehre geldiği gece arkadaşlarına bir veda partisi düzenlerler. Gençlerin video kameralarının bakış açısından anlatılan film hayatlarının en gerçek dışı, korkunç olayından kurtulma teşebbüslerinin belgesini oluşturmaktadır.",
+                    "_name": "tr-TR"
+                }, {
+                    "title": "קלוברפילד (Cloverfield)",
+                    "synopsis": "המפיק בעל החזון ג'יי.ג'יי אברמס (Lost) והבמאי מאט ריבס מביאים לנו את להיט המתח והאימה שכולם מדברים עליו.",
+                    "_name": "he"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "Film produkowany przez J.J. Abramsa (Lost) reżysera Matta Reevesa stał się światową sensacją z powodu obecności ciągłego przerażania i napięcia, o którym wszyscy mówią.",
+                    "_name": "pl-PL"
+                }, {
+                    "title": "Cloverfield",
+                    "synopsis": "前衛創意製片人J.J.亞伯拉罕(《迷》)與導演麥特李維聯手出擊，創造出所有人都在談論的恐怖懸疑氣氛。",
+                    "_name": "yue-Hant"
+                }, {
+                    "title": "Nome de Código: Cloverfield",
+                    "synopsis": "Do visionário produtor J.J. Abrams (Lost) e do realizador Matt Reeves chega-nos a sensação mundial de terror e suspense ininterruptos de que todos estão a falar.",
+                    "_name": "pt-PT"
+                }, {
+                    "title": "科洛弗檔案",
+                    "synopsis": "這部影片出自 J.J. Abrams（曾製作過《Lost》）科幻劇製作人和 Matt Reeves 導演之手，營造了眾人皆知的世界性恐怖和懸疑轟動。",
+                    "_name": "cmn-Hant"
+                }]
+            },
+            "regions": {
+                "region": [{
+                    "territory": "FI",
+                    "theatrical_release_date": "2008-02-29",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "RU",
+                    "theatrical_release_date": "2008-01-18",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "SE",
+                    "theatrical_release_date": "2008-02-08",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "BE",
+                    "theatrical_release_date": "2008-02-06",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "NO",
+                    "theatrical_release_date": "2008-02-08",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "DK",
+                    "theatrical_release_date": "2008-02-01",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "NL",
+                    "theatrical_release_date": "2008-01-28",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "HU",
+                    "theatrical_release_date": "2008-01-18",
+                    "copyright_cline": "Copyright © 2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "IN",
+                    "theatrical_release_date": "2008-06-09",
+                    "copyright_cline": "We, Paramount Pictures Corporation located at 5555 Melrose Ave. Hollywood, CA 90038 hereby declare that we are the owners of the copyright for distributing this cinematography film, having secured necessary consent and license from the producer of the film."
+                }, {
+                    "territory": "ZA",
+                    "theatrical_release_date": "2008-02-08",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "ID",
+                    "theatrical_release_date": "2008-02-20",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "TR",
+                    "theatrical_release_date": "2008-06-24",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "IL",
+                    "theatrical_release_date": "2008-01-31",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "AE",
+                    "theatrical_release_date": "2008-02-07",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "BG",
+                    "theatrical_release_date": "2008-01-18",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "PL",
+                    "theatrical_release_date": "2008-02-01",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "TW",
+                    "theatrical_release_date": "2008-01-26",
+                    "copyright_cline": "2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "US",
+                    "theatrical_release_date": "2008-01-18",
+                    "copyright_cline": "Copyright © 2008 by Paramount Pictures. All Rights Reserved."
+                }, {
+                    "territory": "PT",
+                    "theatrical_release_date": "2008-01-18",
+                    "copyright_cline": "Copyright © 2008 by Paramount Pictures. All Rights Reserved."
+                }]
+            },
+            "accessibility_info": {
+                "accessibility": {
+                    "_role": "captions",
+                    "_available": "true"
+                }
+            },
+            "studio_release_title": "Cloverfield",
+            "theatrical_release_date": "2008-01-18",
+            "synopsis": "Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.",
+            "production_company": "Paramount",
+            "country": "US",
+            "cast": {
+                "cast_member": [{
+                    "apple_id": "208511188",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "208511188"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_449357"
+                        }]
+                    },
+                    "display_name": "Lizzy Caplan",
+                    "character_name": "Marlena",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "Lizzy Caplan",
+                            "_name": "da"
+                        }, {
+                            "display_name": "Lizzy Caplan",
+                            "_name": "no"
+                        }, {
+                            "display_name": "Lizzy Caplan",
+                            "_name": "sv"
+                        }, {
+                            "display_name": "Lizzy Caplan",
+                            "_name": "fi"
+                        }, {
+                            "display_name": "Лиззи Каплан",
+                            "_name": "ru"
+                        }, {
+                            "display_name": "Lizzy Caplan",
+                            "_name": "nl"
+                        }, {
+                            "display_name": "リジー・キャプラン",
+                            "_name": "ja"
+                        }]
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "279027805",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "279027805"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_449353"
+                        }]
+                    },
+                    "display_name": "Jessica Lucas",
+                    "character_name": "Lily",
+                    "_billing": "top"
+                }, {
+                    "apple_id": "365705450",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "365705450"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_449355"
+                        }]
+                    },
+                    "display_name": "T.J. Miller",
+                    "character_name": "Hud",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "تي جاي ميلر",
+                            "_name": "ar"
+                        }, {
+                            "display_name": "T・J・ミラー",
+                            "_name": "ja-JP"
+                        }, {
+                            "display_name": "T.J. Miller",
+                            "_name": "pl"
+                        }, {
+                            "display_name": "T・J・ミラー",
+                            "_name": "ja"
+                        }]
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "279193431",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "279193431"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_449356"
+                        }]
+                    },
+                    "display_name": "Michael Stahl-David",
+                    "character_name": "Rob",
+                    "_billing": "top"
+                }, {
+                    "apple_id": "279193434",
+                    "read_only_info": {
+                        "read_only_value": [{
+                            "_key": "apple-id",
+                            "__text": "279193434"
+                        }, {
+                            "_key": "character-reference-id",
+                            "__text": "REF_449354"
+                        }]
+                    },
+                    "display_name": "Mike Vogel",
+                    "character_name": "Jason",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "مايك فوغل",
+                            "_name": "ar"
+                        }, {
+                            "display_name": "Mike Vogel",
+                            "_name": "pl"
+                        }]
+                    },
+                    "_billing": "top"
+                }]
+            },
+            "crew": {
+                "crew_member": [{
+                    "apple_id": "279193447",
+                    "read_only_info": {
+                        "read_only_value": {
+                            "_key": "apple-id",
+                            "__text": "279193447"
+                        }
+                    },
+                    "display_name": "Matt Reeves",
+                    "locales": {
+                        "locale": {
+                            "display_name": "Matt Reeves",
+                            "_name": "ru-RU"
+                        }
+                    },
+                    "roles": {
+                        "role": "Director"
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "279193449",
+                    "read_only_info": {
+                        "read_only_value": {
+                            "_key": "apple-id",
+                            "__text": "279193449"
+                        }
+                    },
+                    "display_name": "Bryan Burk",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "Брайан Берк",
+                            "_name": "ru-RU"
+                        }, {
+                            "display_name": "Bryan Burk",
+                            "_name": "bg"
+                        }, {
+                            "display_name": "畢布特",
+                            "_name": "yue-Hant"
+                        }, {
+                            "display_name": "布莱恩·布克",
+                            "_name": "cmn-Hans"
+                        }, {
+                            "display_name": "브라이언 버크",
+                            "_name": "ko-KR"
+                        }, {
+                            "display_name": "Bryan Burk",
+                            "_name": "it"
+                        }, {
+                            "display_name": "Bryan Burk",
+                            "_name": "ar"
+                        }, {
+                            "display_name": "Bryan Burk",
+                            "_name": "es-419"
+                        }, {
+                            "display_name": "Bryan Burk",
+                            "_name": "fr"
+                        }, {
+                            "display_name": "ब्रायन बर्क",
+                            "_name": "hi"
+                        }, {
+                            "display_name": "בריאן בורק",
+                            "_name": "he"
+                        }, {
+                            "display_name": "ブライアン・バーク",
+                            "_name": "ja-JP"
+                        }, {
+                            "display_name": "Брайан Берк",
+                            "_name": "ru"
+                        }]
+                    },
+                    "roles": {
+                        "role": "Producer"
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "60243201",
+                    "read_only_info": {
+                        "read_only_value": {
+                            "_key": "apple-id",
+                            "__text": "60243201"
+                        }
+                    },
+                    "display_name": "J.J. Abrams",
+                    "locales": {
+                        "locale": [{
+                            "display_name": "J.J.艾布斯",
+                            "_name": "yue-Hant"
+                        }, {
+                            "display_name": "J.J.에이브람스",
+                            "_name": "ko"
+                        }, {
+                            "display_name": "J.J. Abrams",
+                            "_name": "bg"
+                        }, {
+                            "display_name": "JJ艾布拉姆斯",
+                            "_name": "cmn-Hans"
+                        }, {
+                            "display_name": "J.J.에이브람스",
+                            "_name": "ko-KR"
+                        }, {
+                            "display_name": "Джей Джей Абрамс",
+                            "_name": "ru"
+                        }, {
+                            "display_name": "J.J. Abrams",
+                            "_name": "es-419"
+                        }, {
+                            "display_name": "J.J. Abrams",
+                            "_name": "ar"
+                        }, {
+                            "display_name": "J.J. Abrams",
+                            "_name": "it"
+                        }, {
+                            "display_name": "J.J. Abrams",
+                            "_name": "fr"
+                        }, {
+                            "display_name": "ג'יי.ג'יי אברהמס",
+                            "_name": "he"
+                        }, {
+                            "display_name": "जे. जे. एब्रैम्स",
+                            "_name": "hi"
+                        }, {
+                            "display_name": "J・J・エイブラムス",
+                            "_name": "ja-JP"
+                        }]
+                    },
+                    "roles": {
+                        "role": "Producer"
+                    },
+                    "_billing": "top"
+                }, {
+                    "apple_id": "279193453",
+                    "read_only_info": {
+                        "read_only_value": {
+                            "_key": "apple-id",
+                            "__text": "279193453"
+                        }
+                    },
+                    "display_name": "Drew Goddard",
+                    "locales": {
+                        "locale": {
+                            "display_name": "Дрю Годдард",
+                            "_name": "ru"
+                        }
+                    },
+                    "roles": {
+                        "role": "Screenwriter"
+                    },
+                    "_billing": "top"
+                }]
+            }
+        },
+        "_version": "film5.2"
+    }
+}
