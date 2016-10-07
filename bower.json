@@ -1,5 +1,5 @@
 {
-  "name": "sand-castle",
+  "name": "Sand_Castle",
   "description": "My Library Sand Garden",
   "main": "index.js",
   "authors": [
@@ -7,11 +7,6 @@
   ],
   "license": "ISC",
   "homepage": "https://github.com/deparadise/SandCastle",
-  "moduleType": [
-    "es6",
-    "globals",
-    "node"
-  ],
   "private": true,
   "ignore": [
     "**/.*",
@@ -19,5 +14,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "rxjs": "Rx#^4.1.0"
+  }
 }
