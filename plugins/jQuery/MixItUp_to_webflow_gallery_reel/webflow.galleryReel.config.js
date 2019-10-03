@@ -6,12 +6,14 @@
 $(document).ready(function() {
 	$(async function() {
 
+		// clean up .test-filters
+
 		// >>> Find all .gallery-reel and Loop
 
-			// define fillter_collection
 			// find .gallery-filter-menu node
-			// Collect GR id #category-<catKey>
-			// and split
+			// Collect GR_Id #category-<catKey>
+			// and split destructure for second key
+			// define fillter_collection
 
 			// >>> Collect GR_thumbnail_item by .mix and Loop
 				// Find <sub-cat-key> = .item-sub-category.text()
@@ -26,9 +28,11 @@ $(document).ready(function() {
 				// append filter menu link to .galler-filter-menu
 			// <<< END 3RD LOOP
 
+			// Instantiate MixItUp ON GR_Id
+
 		// <<< END 1ST LOOP
 
-		// End Of SETUP >>
+		// End Of CONFIG SETUP >>
 
 		// // Find gallery targets
 		// let filterMenu = await $(".gallery-filter-menu");
@@ -67,10 +71,10 @@ $(document).ready(function() {
 		// 	}
 		// );
 
-		// Clean Up
-		$(".test-filter").remove();
+		// // Clean Up
+		// $(".test-filter").remove();
 
-		// Instantiate MixItUp:
-		sortCollection.mixItUp();
+		// // Instantiate MixItUp:
+		// sortCollection.mixItUp();
 	});
 });
