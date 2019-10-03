@@ -50,18 +50,29 @@ $(document).ready(function() {
 				item.addClass(compundClassAssignment);
 
 				// check collected gallery-filters and add
-				if (!galleryCollectedSubCategories.includes(compundClassAssignment)) {
-					galleryCollectedSubCategories.push(compundClassAssignment);
+				if (!galleryCollectedSubCategories.includes(subCategoryKey)) {
+					galleryCollectedSubCategories.push(subCategoryKey);
 				}
 			});
 			// <<< END 2ND LOOP
 
-			// >>> Loop on fillter_collection
+			// >>> Loop on fillter_collection and generate filter menu
+			let mixedUpGallerFilterMenu = await galleryCollectedSubCategories.map((filterClass) => {
 				// Define attr key push
+				// Create compound class via <catKey>-<sub-cat-key>
+				let compundClassAssignment = `${categoryKey}-${filterClass}`;
+				let attributePush = (filterClass === "all")
+					? filterClass
+					: `.${compundClassAssignment}`;
 				// append filter menu link to .galler-filter-menu
+				filterMenu.append(
+					`<a href="#" class="filter w-button" data-filter="${attributePush}">${filterClass}</a>`
+				);
+			});
 			// <<< END 3RD LOOP
 
 			// Instantiate MixItUp ON GR_Id
+			gallery.mixItUp();
 		});
 		// <<< END 1ST LOOP
 
