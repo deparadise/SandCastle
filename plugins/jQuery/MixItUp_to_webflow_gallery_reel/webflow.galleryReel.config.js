@@ -50,6 +50,9 @@ $(document).ready(function() {
 				item.addClass(compundClassAssignment);
 
 				// check collected gallery-filters and add
+				if (!galleryCollectedSubCategories.includes(compundClassAssignment)) {
+					galleryCollectedSubCategories.push(compundClassAssignment);
+				}
 			});
 			// <<< END 2ND LOOP
 
