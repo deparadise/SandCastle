@@ -5,11 +5,16 @@
 // On document ready:
 $(document).ready(function() {
 	$(async function() {
+		let galleryReels = await $('.gallery-reel');
+		let testFilters = await $('.test-filter');
 
 		// clean up .test-filters
+		// testFilters.remove();
 
 		// >>> Find all .gallery-reel and Loop
-
+		let mixedUpGalleryReels = await galleryReels.each((i, gallery) => {
+			console.log('>> GALLERY DOM:', gallery);
+			
 			// find .gallery-filter-menu node
 			// Collect GR_Id #category-<catKey>
 			// and split destructure for second key
@@ -29,7 +34,7 @@ $(document).ready(function() {
 			// <<< END 3RD LOOP
 
 			// Instantiate MixItUp ON GR_Id
-
+		});
 		// <<< END 1ST LOOP
 
 		// End Of CONFIG SETUP >>
