@@ -38,13 +38,16 @@ $(document).ready(function() {
 			);
 
 			// >>> Collect GR_thumbnail_item by .mix and Loop
-			let mixedUpGalleryItems = await galleryItems.each((i, item) => {
+			let mixedUpGalleryItems = await galleryItems.each(async(i, item) => {
 				item = $(item);
 				console.log('>> GALLERY ITEM:', item);
 				
 				// Find <sub-cat-key> = .item-sub-category.text()
+				let subCategoryKey = await item.find('.item-sub-category').text();
 				// Create compound class via <catKey>-<sub-cat-key>
+				let compundClassAssignment = `${categoryKey}-${subCategoryKey}`;
 				// Add compound key as class to item
+				item.addClass(compundClassAssignment);
 
 				// check collected gallery-filters and add
 			});
