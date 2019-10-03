@@ -1,12 +1,34 @@
-// Webflow_gallery_Reel_config_v0.0.1
-// Prototype
+// Webflow_gallery_Reel_config_v0.0.2
+// Test Type
 // Using MixItUp.js jQuery library plugin
 
 // On document ready:
 $(document).ready(function() {
 	$(async function() {
 
-		
+		// >>> Find all .gallery-reel and Loop
+
+			// define fillter_collection
+			// find .gallery-filter-menu node
+			// Collect GR id #category-<catKey>
+			// and split
+
+			// >>> Collect GR_thumbnail_item by .mix and Loop
+				// Find <sub-cat-key> = .item-sub-category.text()
+				// Create compound class via <catKey>-<sub-cat-key>
+				// Add compound key as class to item
+
+				// check collected gallery-filters and add
+			// <<< END 2ND LOOP
+
+			// >>> Loop on fillter_collection
+				// Define attr key push
+				// append filter menu link to .galler-filter-menu
+			// <<< END 3RD LOOP
+
+		// <<< END 1ST LOOP
+
+		// End Of SETUP >>
 
 		// // Find gallery targets
 		// let filterMenu = await $(".gallery-filter-menu");
