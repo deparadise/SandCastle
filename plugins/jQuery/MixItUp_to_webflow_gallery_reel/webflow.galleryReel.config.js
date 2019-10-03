@@ -12,7 +12,7 @@ $(document).ready(function() {
 		testFilters.remove();
 
 		// >>> Find all .gallery-reel and Loop
-		let mixedUpGalleryReels = await galleryReels.each((i, gallery) => {
+		let mixedUpGalleryReels = await galleryReels.each(async(i, gallery) => {
 			console.log('>> GALLERY DOM:', gallery);
 			
 			gallery = $(gallery);
@@ -38,11 +38,16 @@ $(document).ready(function() {
 			);
 
 			// >>> Collect GR_thumbnail_item by .mix and Loop
+			let mixedUpGalleryItems = await galleryItems.each((i, item) => {
+				item = $(item);
+				console.log('>> GALLERY ITEM:', item);
+				
 				// Find <sub-cat-key> = .item-sub-category.text()
 				// Create compound class via <catKey>-<sub-cat-key>
 				// Add compound key as class to item
 
 				// check collected gallery-filters and add
+			});
 			// <<< END 2ND LOOP
 
 			// >>> Loop on fillter_collection
