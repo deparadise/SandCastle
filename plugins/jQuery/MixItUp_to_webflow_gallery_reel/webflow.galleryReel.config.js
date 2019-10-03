@@ -9,16 +9,31 @@ $(document).ready(function() {
 		let testFilters = await $('.test-filter');
 
 		// clean up .test-filters
-		// testFilters.remove();
+		testFilters.remove();
 
 		// >>> Find all .gallery-reel and Loop
 		let mixedUpGalleryReels = await galleryReels.each((i, gallery) => {
 			console.log('>> GALLERY DOM:', gallery);
 			
+			gallery = $(gallery);
 			// find .gallery-filter-menu node
+			let filterMenu = gallery.find('.gallery-filter-menu');
 			// Collect GR_Id #category-<catKey>
+			let galleryId = gallery.attr('id');
 			// and split destructure for second key
+			let [type, categoryKey] = galleryId.split('-');
 			// define fillter_collection
+			let galleryCollectedSubCategories = ['all'];
+
+			console.log(
+				'>> GALLERY CONFIG PRELIM',
+				'\n - filterMenu:', filterMenu,
+				'\n - galleryId:', galleryId,
+				'\n - type:', type,
+				'\n - categoryKey:', categoryKey,
+				''
+			);
+			
 
 			// >>> Collect GR_thumbnail_item by .mix and Loop
 				// Find <sub-cat-key> = .item-sub-category.text()
