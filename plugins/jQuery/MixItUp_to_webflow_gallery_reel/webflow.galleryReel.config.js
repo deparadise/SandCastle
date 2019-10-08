@@ -22,7 +22,8 @@ $(document).ready(function() {
 			let [type, categoryKey] = galleryId.split('-');
 			// find .gallery-filter-menu node
 			let filterMenu = gallery.find('.gallery-filter-menu');
-			let galleryItems = gallery.find('.sort-collection').children('.mix');
+			let galleryContainer = gallery.find('.sort-collection');
+			let galleryItems = galleryContainer.children('.mix');
 			
 			// define fillter_collection
 			let galleryCollectedSubCategories = ['all'];
@@ -32,6 +33,7 @@ $(document).ready(function() {
 				'\n - galleryId:', galleryId,
 				'\n - type:', type,
 				'\n - categoryKey:', categoryKey,
+				'\n - asdf:', galleryContainer,
 				'\n - filterMenu:', filterMenu,
 				'\n - galleryItems:', galleryItems,
 				''
@@ -72,7 +74,7 @@ $(document).ready(function() {
 			// <<< END 3RD LOOP
 
 			// Instantiate MixItUp ON GR_Id
-			gallery.mixItUp();
+			return galleryContainer.mixItUp();
 		});
 		// <<< END 1ST LOOP
 
